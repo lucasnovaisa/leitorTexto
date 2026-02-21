@@ -39,7 +39,7 @@ Esse projeto é uma aplicação web leve que permite ao usuário digitar um text
 
 O usuário digita ou cola um texto na caixa disponível e clica no botão para que o sistema converta o texto em áudio usando o recurso nativo de síntese de voz do navegador.
 
-## 📌 3. Exemplo de código principal
+## 3. 📌 Exemplo de código principal
 
 ``` js
 const textarea = document.getElementById('text'),
