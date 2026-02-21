@@ -29,17 +29,17 @@ O projeto foi desenvolvido com:
 
 Esse projeto é uma aplicação web leve que permite ao usuário digitar um texto e ouvir esse texto sendo narrado em voz em português brasileiro. Ele foi criado com HTML, CSS e JavaScript usando a interface de SpeechSynthesis do navegador.
 
-## 1. 🚀 Funcionalidades
+## 🚀 1. Funcionalidades
 
 - ✔️ Recebe texto do usuário
 - ✔️ Converte texto em fala em português do Brasil (pt-BR)
 - ✔️ Interface limpa e responsiva
 
-## 2. 🧠 Como funciona
+## 🧠 2. Como funciona
 
 O usuário digita ou cola um texto na caixa disponível e clica no botão para que o sistema converta o texto em áudio usando o recurso nativo de síntese de voz do navegador.
 
-## 3. 📌 Exemplo de código principal
+## 📌 3. Exemplo de código principal
 
 ``` js
 const textarea = document.getElementById('text'),
